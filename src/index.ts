@@ -2,10 +2,14 @@
 import './index.scss'
 import * as m from 'mithril'
 import home from './components/home'
+import Test from './components/test'
 import about from './components/about'
+import testtsx from './components/testtsx'
 
 m.route(document.body, '/', {
 	'/': home,
+	'/test': Test,
+	'/testtsx': testtsx,
 	'/about': about
 })
 

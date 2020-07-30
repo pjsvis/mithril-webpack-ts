@@ -8,6 +8,11 @@ This repo has 3 branches. Use `git checkout [branchname]` to use one of the foll
 
 Note that each branch has different dependencies, so you may need to re-run `npm install` when switching branches.
 
+## Notes
+
+* use tsx ref [mithril tsx template](https://github.com/oardi/mithril-tsx-template)
+* modify index to get tachyons from cdn
+
 ## Installation:
 
     npm install

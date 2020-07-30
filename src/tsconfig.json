@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "m",
     "target": "es5",
     "module": "commonjs",
     "lib": ["dom", "es2015"],
