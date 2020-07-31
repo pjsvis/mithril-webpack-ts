@@ -13,22 +13,22 @@ Note that each branch has different dependencies, so you may need to re-run `npm
 * use tsx ref [mithril tsx template](https://github.com/oardi/mithril-tsx-template)
 * modify index to get tachyons from cdn
 
-## Installation:
+## Installation
 
     npm install
 
-### Recommended:
+### Recommended
 
 * **editorconfig** VSCode extension
 * **eslint** VSCode extension
 * **tslint** VSCode extension
 * **stylelint** VSCode extension
 
-## Start:
+## Start
 
     npm start
 
-Then go to http://localhost:3000/ in your browser.
+Then go to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 ## Build minified
 
